@@ -99,7 +99,7 @@ git clone https://github.com/MohammedTouqeerUrRaiyan/Uber-data-pipeline-project.
 cd uber-data-pipeline
 ```
 
-### 2. Create virtual environment
+### 2. Create a virtual environment
 
 ```bash
 python -m venv venv
