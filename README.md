@@ -78,13 +78,11 @@ uber-data-pipeline/
 
 ## 🧠 Data Model (Star Schema)
 
-👉 Add your data model image here:
 
 ```md
 ![Data Model](images/uber_data_model.jpeg)
 ```
 
-📌 Place your image inside:
 
 ```
 images/uber_data_model.jpeg
