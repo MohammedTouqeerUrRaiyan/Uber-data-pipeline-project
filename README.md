@@ -78,17 +78,8 @@ uber-data-pipeline/
 
 ## 🧠 Data Model (Star Schema)
 
+<img src=images/uber_data_model.jpeg>
 
-```md
-![Data Model](images/uber_data_model.jpeg)
-```
-
-
-```
-images/uber_data_model.jpeg
-```
-
----
 
 ## ▶️ How to Run
 
